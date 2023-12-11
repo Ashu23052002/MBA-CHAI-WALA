@@ -1,0 +1,18 @@
+  .intro{
+
+    height: calc(100vh - 50vh);
+    margin-bottom: 400px;
+
+    video{
+        width: 100%;
+        margin-top: -50px;
+        
+    }
+    div{
+        width: 100%;
+        height: calc(100vh - 50vh);
+        position: absolute;
+        top: 0%;
+       
+    }
+  }
